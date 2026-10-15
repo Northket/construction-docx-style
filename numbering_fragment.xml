@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:numbering>
+<w:abstractNum w:abstractNumId="1">
+    <w:nsid w:val="2B104279"/>
+    <w:multiLevelType w:val="multilevel"/>
+    <w:tmpl w:val="2716E17A"/>
+    <w:lvl w:ilvl="0">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="chineseCountingThousand"/>
+      <w:pStyle w:val="01"/>
+      <w:suff w:val="nothing"/>
+      <w:lvlText w:val="第%1章  "/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:eastAsia="黑体" w:hint="eastAsia"/>
+        <w:b w:val="0"/>
+        <w:i w:val="0"/>
+        <w:color w:val="auto"/>
+        <w:sz w:val="32"/>
+      </w:rPr>
+    </w:lvl>
+    <w:lvl w:ilvl="1">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:pStyle w:val="02"/>
+      <w:isLgl/>
+      <w:suff w:val="space"/>
+      <w:lvlText w:val="%1.%2  "/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        <w:b w:val="0"/>
+        <w:i w:val="0"/>
+        <w:color w:val="auto"/>
+        <w:sz w:val="28"/>
+      </w:rPr>
+    </w:lvl>
+    <w:lvl w:ilvl="2">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:pStyle w:val="03"/>
+      <w:isLgl/>
+      <w:suff w:val="nothing"/>
+      <w:lvlText w:val="%1.%2.%3  "/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="宋体" w:hint="eastAsia"/>
+        <w:b w:val="0"/>
+        <w:i w:val="0"/>
+        <w:sz w:val="28"/>
+      </w:rPr>
+    </w:lvl>
+    <w:lvl w:ilvl="3">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:pStyle w:val="04"/>
+      <w:isLgl/>
+      <w:suff w:val="nothing"/>
+      <w:lvlText w:val="%1.%2.%3.%4  "/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+    </w:lvl>
+    <w:lvl w:ilvl="4">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:pStyle w:val="05"/>
+      <w:isLgl/>
+      <w:suff w:val="nothing"/>
+      <w:lvlText w:val="%1.%2.%3.%4.%5  "/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hAnsi="黑体" w:hint="eastAsia"/>
+        <w:b w:val="0"/>
+        <w:i w:val="0"/>
+        <w:sz w:val="28"/>
+        <w:szCs w:val="28"/>
+      </w:rPr>
+    </w:lvl>
+    <w:lvl w:ilvl="5">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:pStyle w:val="06"/>
+      <w:suff w:val="nothing"/>
+      <w:lvlText w:val="%6、"/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hint="eastAsia"/>
+        <w:b w:val="0"/>
+        <w:i w:val="0"/>
+        <w:sz w:val="24"/>
+      </w:rPr>
+    </w:lvl>
+    <w:lvl w:ilvl="6">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:pStyle w:val="07"/>
+      <w:suff w:val="nothing"/>
+      <w:lvlText w:val="%7）"/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="宋体" w:eastAsia="宋体" w:hint="eastAsia"/>
+        <w:b w:val="0"/>
+        <w:i w:val="0"/>
+        <w:sz w:val="24"/>
+      </w:rPr>
+    </w:lvl>
+    <w:lvl w:ilvl="7">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:lvlRestart w:val="3"/>
+      <w:pStyle w:val="09"/>
+      <w:isLgl/>
+      <w:suff w:val="nothing"/>
+      <w:lvlText w:val="表%1.%2-%8  "/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hint="eastAsia"/>
+        <w:b w:val="0"/>
+        <w:i w:val="0"/>
+        <w:sz w:val="21"/>
+      </w:rPr>
+    </w:lvl>
+    <w:lvl w:ilvl="8">
+      <w:start w:val="1"/>
+      <w:numFmt w:val="decimal"/>
+      <w:lvlRestart w:val="3"/>
+      <w:pStyle w:val="10"/>
+      <w:isLgl/>
+      <w:suff w:val="nothing"/>
+      <w:lvlText w:val="图%1.%2-%9  "/>
+      <w:lvlJc w:val="left"/>
+      <w:pPr>
+        <w:ind w:left="0" w:firstLine="0"/>
+      </w:pPr>
+      <w:rPr>
+        <w:rFonts w:ascii="黑体" w:eastAsia="黑体" w:hint="eastAsia"/>
+        <w:b w:val="0"/>
+        <w:i w:val="0"/>
+        <w:sz w:val="21"/>
+      </w:rPr>
+    </w:lvl>
+  </w:abstractNum>
+<w:num w:numId="44">
+    <w:abstractNumId w:val="1"/>
+  </w:num>
+</w:numbering>
